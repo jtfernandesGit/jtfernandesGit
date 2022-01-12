@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data projects ...
 - 🌱 I’m currently learning Solutions Architect (MBA), Software Engineering (College) and DevOps Tools (self study) ...
 
-- 📫 How to reach me: ...
-
 ##
 
 <div align="center">
@@ -39,6 +37,7 @@ Here are some ideas to get you started:
 </div>
  
   ##
+     📫 How to reach me:
  
 <div> 
   <a href="https://www.linkedin.com/in/jtfernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
